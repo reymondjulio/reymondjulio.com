@@ -4,7 +4,7 @@ Hi there ✋
 
 I'm **Reymond Julio**, a student majoring in Communication Science at Multimedia Nusantara University. I :heart: coding and I'm currently changing careers to become a Software Engineer 💻.
 
-Welcome to my personal website 🙂. My personal website is made with Figma, HTML and CSS technology. This design was inspired by [Kent C. Doods](https://kentcdodds.com/) and [Josh W Comeau](https://www.joshwcomeau.com/) websites.
+Welcome to my personal website 🙂. My personal website is made with Figma, HTML, and CSS technology. This design was inspired by [Kent C. Doods](https://kentcdodds.com/) and [Josh W Comeau](https://www.joshwcomeau.com/) websites.
 
 ## My Design
 
