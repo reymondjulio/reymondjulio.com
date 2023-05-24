@@ -19,7 +19,6 @@
 
 body {
   font-family: sans-serif;
-  width: 1440px;
   background-color: var(--black);
 }
 
@@ -88,7 +87,8 @@ body {
   display: flex;
   flex-direction: column;
   gap: 50px;
-  width: 844px;
+  width: 100%;
+  max-width: 840px;
   height: 464px;
   margin: 200px 0 184px 58px;
 }
@@ -358,7 +358,7 @@ body {
     font-size: 44px;
   }
 
-  
+
   .hero {
     flex-wrap: wrap-reverse;
     align-items: center;
