@@ -16,7 +16,7 @@ https://www.figma.com/file/AZIEHUxBIkhiBD7hm0hs4n/reymondjulio.com?type=design&n
 
 - Website: [reymondjulio.com](https://reymondjulio.com)
 - Github: [@reymondjulio](https://github.com/reymondjulio)
-- Linkedin: [reymondjulio](https://www.linkedin.com/in/reymond-julio-599a62182/)
+- Linkedin: [reymondjulio](https://www.linkedin.com/in/reymondjulio/)
 - Facebook: [reymondjulio](https://www.facebook.com/Rey.Yoe/)
 - Instagram: [@reymondjulio](https://www.instagram.com/reymondjulio/)
 
@@ -33,17 +33,20 @@ https://www.figma.com/file/AZIEHUxBIkhiBD7hm0hs4n/reymondjulio.com?type=design&n
 ## Pages
 
 - Home: the home page contains my bio, my skills, my project and how to contact me.
-- Project: the project page to view my projects or portfolio
-- Contact: the contact page to contact me by sending an email
+- Project: the project page to view my projects or portfolio.
+- Contact: the contact page to contact me by sending an email.
 
 ## Color Palette
 
-| Color      |   Hex   |
-| ---------- | :-----: |
-| Black      | #1F2028 |
-| White      | #FFFFFF |
-| Purple     | #911ED8 |
-| Orange     | #E67E22 |
-| Dark Blue  | #2F0449 |
+e
+| Color | Hex |
+| ------------ | :-----: |
+| Black | #1F2028 |
+| Light Black | #131317 |
+| White | #FFFFFF |
+| Light Purple | #be3ffa |
+| Dark Purple | #911ED8 |
+| Orange | #E67E22 |
+| Dark Blue | #2F0449 |
 | Light Blue | #1C7ED6 |
-| Yellow     | #F6CF00 |
+| Yellow | #F6CF00 |
