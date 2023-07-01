@@ -32,20 +32,37 @@
 
     <main>
       <section id="contact">
-        <div class="max-w-6xl mx-auto w-full p-6 lg:p-14">
-          <div class="flex flex-col justify-center items-center gap-y-1">
-            <h3 class="text-white text-1xl">Get In <span class="text-1xl text-purple-600">Touch</span></h3>
+        <div class="max-w-6xl mx-auto w-full p-6 lg:p-14 flex flex-col justify-center items-end">
+          <div class="flex flex-col justify-center self-center gap-y-1">
+            <h3 class="text-white text-1xl text-center">Get In <span class="text-1xl text-purple-600">Touch</span></h3>
             <h2 class="text-white text-3xl font-semibold">Contact Me</h2>
           </div>
 
-          <div class="text-center">
-            <form class="contact-form" action="">
-              <input class="bg-slate-800 text-white border-none p-2 text-1xl rounded-md w-full sm:w-3/4 md:w-1/4 mt-12 md:mr-1 outline-none" type="text" name="name" placeholder="Your name" required />
-              <input class="bg-slate-800 text-white border-none p-2 text-1xl rounded-md w-full sm:w-3/4 md:w-1/4 mt-12 outline-none" type="email" name="email" placeholder="Your email" required />
-              <br />
-              <textarea class="bg-slate-800 text-white border-none rounded-md text-1xl w-full sm:w-3/4 md:w-1/2 mt-8 p-2 sm:p-1 outline-none" name="message" id="" cols="30" rows="10" placeholder="Your message" required></textarea>
-              <br />
-              <input class="inline-block w-full sm:w-3/4 md:w-1/2 lg:w-1/5 rounded-md bg-purple-600 hover:bg-purple-500 mt-4 text-white text-1xl p-4 text-center font-bold cursor-pointer" type="submit" value="Send Message" />
+          <div class="flex flex-col w-full md:w-5/6 p-12">
+            <form id="contact-form" action="">
+              <div class="flex flex-col gap-y-2 mb-6">
+                <label for="name" class="text-white font-semibold">Name:</label>
+                <input id="name" type="text" name="name" placeholder="Your name" required class="bg-slate-800 text-white border border-purple-500 p-3 text-1xl rounded-md w-full md:w-5/6 md:mr-1 outline-none" />
+              </div>
+              <div class="flex flex-col gap-y-2 mb-6">
+                <label for="email" class="text-white font-semibold">Email:</label>
+                <input id="email" type="email" name="email" placeholder="Your email" required class="bg-slate-800 text-white border border-purple-500 p-3 text-1xl rounded-md w-full md:w-5/6 outline-none" />
+              </div>
+
+              <div class="flex flex-col gap-y-2 mb-6">
+                <label for="message" class="text-white font-semibold">Message:</label>
+                <textarea name="message" id="message" cols="30" rows="10" placeholder="Your message" required class="bg-slate-800 text-white border border-purple-500 rounded-md text-1xl w-full md:w-5/6 p-2 outline-none"></textarea>
+              </div>
+
+              <div class="flex flex-col lg:ml-48">
+                <input
+                  id="submit"
+                  name="=submit"
+                  type="submit"
+                  value="Send Message"
+                  class="inline-block w-full md:w-5/6 lg:w-2/5 rounded-md bg-purple-600 hover:bg-purple-500 mt-4 text-white text-1xl p-4 text-center font-bold cursor-pointer"
+                />
+              </div>
             </form>
           </div>
         </div>
