@@ -38,15 +38,14 @@ https://www.figma.com/file/AZIEHUxBIkhiBD7hm0hs4n/reymondjulio.com?type=design&n
 
 ## Color Palette
 
-e
-| Color | Hex |
+| Color        |   Hex   |
 | ------------ | :-----: |
-| Black | #1F2028 |
-| Light Black | #131317 |
-| White | #FFFFFF |
+| Black        | #1F2028 |
+| Light Black  | #131317 |
+| White        | #FFFFFF |
 | Light Purple | #be3ffa |
-| Dark Purple | #911ED8 |
-| Orange | #E67E22 |
-| Dark Blue | #2F0449 |
-| Light Blue | #1C7ED6 |
-| Yellow | #F6CF00 |
+| Dark Purple  | #911ED8 |
+| Orange       | #E67E22 |
+| Dark Blue    | #2F0449 |
+| Light Blue   | #1C7ED6 |
+| Yellow       | #F6CF00 |
